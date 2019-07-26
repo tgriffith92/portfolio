@@ -1,0 +1,43 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    margin: 0;
+}
+ul {
+    display:flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    background-color: black;
+    height: 10vh;
+    margin: 0;
+}
+li {
+    color: white;
+    font-size: 2em;
+    padding: 20px 10px 0px 0px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: rgb(8, 175, 241);
+}
+img {
+    height: 50vh;
+   width: 100vw;
+}   
+main {
+    margin: 0 auto;
+    text-align: center;
+} 
+footer {
+    height: 10vh;
+    position: relative;
+}
+.footerPara {
+    position: absolute;
+    left: 5px;
+    bottom: 0px;
+}
