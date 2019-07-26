@@ -32,12 +32,19 @@ main {
     margin: 0 auto;
     text-align: center;
 } 
+.workPara {
+    font-size: 30px;
+}
 footer {
+    display: flex;
+    justify-content: space-around;
     height: 10vh;
     position: relative;
 }
 .footerPara {
-    position: absolute;
     left: 5px;
     bottom: 0px;
+}
+.footerLink {
+    color: black;
 }
