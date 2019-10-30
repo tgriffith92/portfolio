@@ -1,0 +1,22 @@
+{
+  "name": "tgriffith92.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgriffith92/tgriffith92.github.io.git"
+  },
+  "author": "Terence Griffith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgriffith92/tgriffith92.github.io/issues"
+  },
+  "homepage": "https://github.com/tgriffith92/tgriffith92.github.io#readme",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
