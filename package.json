@@ -6,7 +6,7 @@
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
-  },,
+  },
   "author": "Terence Griffith",
   "license": "ISC",
   "homepage": "https://github.com/tgriffith92/tgriffith92.github.io#readme",
