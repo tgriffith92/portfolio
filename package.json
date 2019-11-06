@@ -10,7 +10,6 @@
   },
   "author": "Terence Griffith",
   "license": "ISC",
-  "homepage": "https://github.com/tgriffith92/tgriffith92.github.io#readme",
   "dependencies": {
     "node-sass": "^4.13.0"
   }
