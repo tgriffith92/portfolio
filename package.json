@@ -12,5 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "node-sass": "^4.13.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
